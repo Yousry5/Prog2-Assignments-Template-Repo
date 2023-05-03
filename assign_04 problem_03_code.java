@@ -1,7 +1,7 @@
 //Ahmed yousry 20216161
 import java.util.Scanner;
  
-public class JOE {
+public class AY {
     static int Search(int[] arr, int sz, int target) {
         for (int i = 0; i < sz; i++)
         {
