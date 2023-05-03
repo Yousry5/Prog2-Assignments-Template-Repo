@@ -1,7 +1,7 @@
 //Ahmed yousry 20216161
 import java.util.Scanner;
 
-public class JOE {
+public class AY {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
